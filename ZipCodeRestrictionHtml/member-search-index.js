@@ -1,0 +1,1 @@
+memberSearchIndex = [{"p":"com.company","c":"ZipCodeRestriction","l":"mergeDestination(int[][])"},{"p":"com.company","c":"ZipCodeRestriction","l":"ZipCodeRestriction()"}]
